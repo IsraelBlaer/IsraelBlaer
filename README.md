@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning and honing my skills in Nest.js, exploring its powerful features and best practices.
 
-💞️ I’m looking to collaborate on projects related to fintech and backend development. I'm passionate about building robust and scalable systems to solve real-world problems.
+💞️ I’m looking to collaborate on projects related to backend development and building amazing software product. I'm passionate about building robust and scalable systems to solve real-world problems.
 
 📫 How to reach me:
   - GitHub:https://github.com/IsraelBlaer
